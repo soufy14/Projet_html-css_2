@@ -14,7 +14,7 @@ body{
 .conteneur{
     font-family:Arial, sans-serif;
     font-weight: bold;
-    width: 1040px;
+    width: 1050px;
     overflow: scroll;
     margin: 20px;
 }
@@ -82,7 +82,7 @@ body{
 }
 .class3{
     padding: 15px;
-    height: 140px;
+    height: 125px;
     margin-top: 15px;
     background-color:  #4b0a63;
     border-radius: 10px;
